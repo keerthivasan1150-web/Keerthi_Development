@@ -1,1 +1,1 @@
-text3 file is created for testing activity
+text3 file is created
